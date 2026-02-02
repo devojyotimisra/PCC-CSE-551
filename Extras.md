@@ -20,7 +20,7 @@ DEFINE_EDITOR=nano;
 SET SERVEROUTPUT ON;
 ```
 
-# To clear `SQL PLUS` screen
+# To clear `SQLPLUS` screen
 
 ```shell
 CLEAR SCR
