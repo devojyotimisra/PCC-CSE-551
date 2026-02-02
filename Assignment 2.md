@@ -40,7 +40,7 @@ FROM EMPLOYEE20231056
 WHERE DNO=5;
 ```
 
-### 6. All distinct salaries with name of employees
+### 6. All distinct salaries
 
 ```sql
 SELECT DISTINCT SALARY 
